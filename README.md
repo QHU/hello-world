@@ -1,3 +1,4 @@
 # hello-world
-1st repository 
-done
+my 1st repository 
+
+it's done
